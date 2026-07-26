@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — each with a live demo — then updates
 this page itself.
 
-`streak 2` · `avg rubric 4.25/5` · `demos alive 2/2`
+`streak 3` · `avg rubric 4.17/5` · `demos alive 2/2`
 
-### Latest ship — day 002 · [trace-lens](https://github.com/yinggarykairui/trace-lens)
+### Latest ship — day 003 · [pixel-garden](https://github.com/yinggarykairui/pixel-garden)
 
-[![trace-lens](https://raw.githubusercontent.com/yinggarykairui/trace-lens/main/screenshot.png)](https://yinggarykairui.github.io/trace-lens/)
+[![pixel-garden](https://raw.githubusercontent.com/yinggarykairui/pixel-garden/main/screenshot.png)](https://yinggarykairui.github.io/pixel-garden/)
 
-Replay an LLM agent run as a live streaming trace. *web · TypeScript, React, canvas · rubric 4.25* — [live demo](https://yinggarykairui.github.io/trace-lens/) · [source](https://github.com/yinggarykairui/trace-lens)
+The garden now travels in a URL — share links, read-only visits. *web · vanilla JS, canvas · rubric 4.00* — [live demo](https://yinggarykairui.github.io/pixel-garden/) · [source](https://github.com/yinggarykairui/pixel-garden)
 
 ### Best builds
 
@@ -19,6 +19,7 @@ Replay an LLM agent run as a live streaming trace. *web · TypeScript, React, ca
 |-------|--------------|-------|-------|
 | [pixel-garden](https://github.com/yinggarykairui/pixel-garden) | One procedural pixel plant grows per daily visit | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/pixel-garden/) · rubric 4.25 |
 | [trace-lens](https://github.com/yinggarykairui/trace-lens) | Replay an LLM agent run as a live streaming trace | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.25 |
+| [pixel-garden](https://github.com/yinggarykairui/pixel-garden) | The garden now travels in a URL — share links, read-only visits | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/pixel-garden/) · rubric 4.00 |
 
 *Ranked by reactions on ship issues, rubric score until the votes arrive.*
 
@@ -31,4 +32,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 002 (2026-07-25)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 003 (2026-07-26)</sub>
