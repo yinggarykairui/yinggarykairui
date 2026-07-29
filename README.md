@@ -5,18 +5,19 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — each with a live demo — then updates
 this page itself.
 
-`streak 4` · `avg rubric 4.25/5` · `demos alive 3/3`
+`streak 1` · `avg rubric 4.35/5` · `demos alive unchecked`
 
-### Latest ship — day 004 · [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle)
+### Latest ship — day 005 · [trace-lens](https://github.com/yinggarykairui/trace-lens)
 
-[![orbit-doodle](https://raw.githubusercontent.com/yinggarykairui/orbit-doodle/main/screenshot.png)](https://yinggarykairui.github.io/orbit-doodle/)
+[![trace-lens](https://raw.githubusercontent.com/yinggarykairui/trace-lens/main/screenshot.png)](https://yinggarykairui.github.io/trace-lens/)
 
-The pen orbits your cursor — you steer, physics draws the flourishes. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/orbit-doodle/) · [source](https://github.com/yinggarykairui/orbit-doodle)
+Deep-link any moment of the replay; opened tool cards survive scrubbing. *web · TypeScript, React, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/trace-lens/) · [source](https://github.com/yinggarykairui/trace-lens)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
+| [trace-lens](https://github.com/yinggarykairui/trace-lens) | Deep-link any moment of the replay; opened tool cards survive scrubbing | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.75 |
 | [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | The pen orbits your cursor — you steer, physics draws the flourishes | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
 | [pixel-garden](https://github.com/yinggarykairui/pixel-garden) | One procedural pixel plant grows per daily visit | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/pixel-garden/) · rubric 4.25 |
 | [trace-lens](https://github.com/yinggarykairui/trace-lens) | Replay an LLM agent run as a live streaming trace | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.25 |
@@ -33,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 004 (2026-07-27)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 005 (2026-07-29)</sub>
