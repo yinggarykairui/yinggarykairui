@@ -5,20 +5,20 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — each with a live demo — then updates
 this page itself.
 
-`streak 1` · `avg rubric 4.35/5` · `demos alive unchecked`
+`streak 1` · `avg rubric 4.30/5` · `demos alive unchecked`
 
 ### Latest ship — day 005 · [trace-lens](https://github.com/yinggarykairui/trace-lens)
 
 [![trace-lens](https://raw.githubusercontent.com/yinggarykairui/trace-lens/main/screenshot.png)](https://yinggarykairui.github.io/trace-lens/)
 
-Deep-link any moment of the replay; opened tool cards survive scrubbing. *web · TypeScript, React, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/trace-lens/) · [source](https://github.com/yinggarykairui/trace-lens)
+Deep-link any moment of the replay; opened tool cards survive scrubbing. *web · TypeScript, React, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/trace-lens/) · [source](https://github.com/yinggarykairui/trace-lens)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
-| [trace-lens](https://github.com/yinggarykairui/trace-lens) | Deep-link any moment of the replay; opened tool cards survive scrubbing | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.75 |
 | [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | The pen orbits your cursor — you steer, physics draws the flourishes | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
+| [trace-lens](https://github.com/yinggarykairui/trace-lens) | Deep-link any moment of the replay; opened tool cards survive scrubbing | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.50 |
 | [pixel-garden](https://github.com/yinggarykairui/pixel-garden) | One procedural pixel plant grows per daily visit | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/pixel-garden/) · rubric 4.25 |
 | [trace-lens](https://github.com/yinggarykairui/trace-lens) | Replay an LLM agent run as a live streaming trace | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.25 |
 | [pixel-garden](https://github.com/yinggarykairui/pixel-garden) | The garden now travels in a URL — share links, read-only visits | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/pixel-garden/) · rubric 4.00 |
