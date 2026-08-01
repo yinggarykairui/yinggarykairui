@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — each with a live demo — then updates
 this page itself.
 
-`streak 2` · `avg rubric 4.33/5` · `demos alive unchecked`
+`streak 3` · `avg rubric 4.32/5` · `demos alive unchecked`
 
-### Latest ship — day 006 · [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle)
+### Latest ship — day 007 · [pixel-garden](https://github.com/yinggarykairui/pixel-garden)
 
-[![orbit-doodle](https://raw.githubusercontent.com/yinggarykairui/orbit-doodle/main/screenshot.png)](https://yinggarykairui.github.io/orbit-doodle/)
+[![pixel-garden](https://raw.githubusercontent.com/yinggarykairui/pixel-garden/main/screenshot.png)](https://yinggarykairui.github.io/pixel-garden/)
 
-Undo, redo, and three pens — every stroke kept as a path, not a picture. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/orbit-doodle/) · [source](https://github.com/yinggarykairui/orbit-doodle)
+Meet your plants — tap one and it names its species and the day it arrived. *web · vanilla JS, canvas · rubric 4.25* — [live demo](https://yinggarykairui.github.io/pixel-garden/) · [source](https://github.com/yinggarykairui/pixel-garden)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 006 (2026-07-30)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 007 (2026-07-31)</sub>
