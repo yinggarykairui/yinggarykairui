@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — each with a live demo — then updates
 this page itself.
 
-`streak 5` · `avg rubric 4.36/5` · `demos alive unchecked`
+`streak 6` · `avg rubric 4.38/5` · `demos alive unchecked`
 
-### Latest ship — day 009 · [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle)
+### Latest ship — day 010 · [pixel-garden](https://github.com/yinggarykairui/pixel-garden)
 
-[![orbit-doodle](https://raw.githubusercontent.com/yinggarykairui/orbit-doodle/main/screenshot.png)](https://yinggarykairui.github.io/orbit-doodle/)
+[![pixel-garden](https://raw.githubusercontent.com/yinggarykairui/pixel-garden/main/screenshot.png)](https://yinggarykairui.github.io/pixel-garden/)
 
-The page draws itself one flourish before you touch it, then gets out of the way. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/orbit-doodle/) · [source](https://github.com/yinggarykairui/orbit-doodle)
+The keyboard walk speaks — each plant the selection lands on names itself aloud. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/pixel-garden/) · [source](https://github.com/yinggarykairui/pixel-garden)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 009 (2026-08-02)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 010 (2026-08-03)</sub>
