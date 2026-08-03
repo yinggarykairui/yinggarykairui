@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — each with a live demo — then updates
 this page itself.
 
-`streak 4` · `avg rubric 4.34/5` · `demos alive unchecked`
+`streak 5` · `avg rubric 4.36/5` · `demos alive unchecked`
 
-### Latest ship — day 008 · [trace-lens](https://github.com/yinggarykairui/trace-lens)
+### Latest ship — day 009 · [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle)
 
-[![trace-lens](https://raw.githubusercontent.com/yinggarykairui/trace-lens/main/screenshot.png)](https://yinggarykairui.github.io/trace-lens/)
+[![orbit-doodle](https://raw.githubusercontent.com/yinggarykairui/orbit-doodle/main/screenshot.png)](https://yinggarykairui.github.io/orbit-doodle/)
 
-A shared #t= link now lands in a tab you already have open, and the timeline answers the keyboard. *web · TypeScript, React, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/trace-lens/) · [source](https://github.com/yinggarykairui/trace-lens)
+The page draws itself one flourish before you touch it, then gets out of the way. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/orbit-doodle/) · [source](https://github.com/yinggarykairui/orbit-doodle)
 
 ### Best builds
 
@@ -21,7 +21,7 @@ A shared #t= link now lands in a tab you already have open, and the timeline ans
 | [trace-lens](https://github.com/yinggarykairui/trace-lens) | Deep-link any moment of the replay; opened tool cards survive scrubbing | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.50 |
 | [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | Undo, redo, and three pens — every stroke kept as a path, not a picture | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
 | [trace-lens](https://github.com/yinggarykairui/trace-lens) | A shared #t= link now lands in a tab you already have open, and the timeline answers the keyboard | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.50 |
-| [pixel-garden](https://github.com/yinggarykairui/pixel-garden) | One procedural pixel plant grows per daily visit | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/pixel-garden/) · rubric 4.25 |
+| [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | The page draws itself one flourish before you touch it, then gets out of the way | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
 
 *Ranked by reactions on ship issues, rubric score until the votes arrive.*
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 008 (2026-08-01)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 009 (2026-08-02)</sub>
