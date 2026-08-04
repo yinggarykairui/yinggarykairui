@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — each with a live demo — then updates
 this page itself.
 
-`streak 6` · `avg rubric 4.38/5` · `demos alive unchecked`
+`streak 7` · `avg rubric 4.39/5` · `demos alive 4/4`
 
-### Latest ship — day 010 · [pixel-garden](https://github.com/yinggarykairui/pixel-garden)
+### Latest ship — day 011 · [tiny-synth](https://github.com/yinggarykairui/tiny-synth)
 
-[![pixel-garden](https://raw.githubusercontent.com/yinggarykairui/pixel-garden/main/screenshot.png)](https://yinggarykairui.github.io/pixel-garden/)
+[![tiny-synth](https://raw.githubusercontent.com/yinggarykairui/tiny-synth/main/screenshot.png)](https://yinggarykairui.github.io/tiny-synth/)
 
-The keyboard walk speaks — each plant the selection lands on names itself aloud. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/pixel-garden/) · [source](https://github.com/yinggarykairui/pixel-garden)
+A playable keyboard synth — one oscillator, eight voices, four waveforms, ADSR sliders, keys that light up. *web · vanilla JS, WebAudio · rubric 4.50* — [live demo](https://yinggarykairui.github.io/tiny-synth/) · [source](https://github.com/yinggarykairui/tiny-synth)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 010 (2026-08-03)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 011 (2026-08-04)</sub>
