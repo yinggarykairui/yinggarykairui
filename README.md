@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-**one small working project every day** — each with a live demo — then updates
+**one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 7` · `avg rubric 4.39/5` · `demos alive 4/4`
+`streak 9` · `avg rubric 4.40/5` · `demos alive 4/4`
 
-### Latest ship — day 011 · [tiny-synth](https://github.com/yinggarykairui/tiny-synth)
+### Latest ship — day 012 · [git-mood](https://github.com/yinggarykairui/git-mood)
 
-[![tiny-synth](https://raw.githubusercontent.com/yinggarykairui/tiny-synth/main/screenshot.png)](https://yinggarykairui.github.io/tiny-synth/)
+[![git-mood](https://raw.githubusercontent.com/yinggarykairui/git-mood/main/screenshot.png)](https://github.com/yinggarykairui/git-mood)
 
-A playable keyboard synth — one oscillator, eight voices, four waveforms, ADSR sliders, keys that light up. *web · vanilla JS, WebAudio · rubric 4.50* — [live demo](https://yinggarykairui.github.io/tiny-synth/) · [source](https://github.com/yinggarykairui/tiny-synth)
+A terminal mood chart for a git repo — tempo, a punch-card clock, streaks, and tags that print their own arithmetic. *cli · Python 3, stdlib only · rubric 4.50* — [source](https://github.com/yinggarykairui/git-mood)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 011 (2026-08-04)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 012 (2026-08-05)</sub>
