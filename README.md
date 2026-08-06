@@ -5,23 +5,23 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 9` · `avg rubric 4.40/5` · `demos alive 4/4`
+`streak 9` · `avg rubric 4.42/5` · `demos alive 4/4`
 
 ### Latest ship — day 012 · [git-mood](https://github.com/yinggarykairui/git-mood)
 
 [![git-mood](https://raw.githubusercontent.com/yinggarykairui/git-mood/main/screenshot.png)](https://github.com/yinggarykairui/git-mood)
 
-A terminal mood chart for a git repo — tempo, a punch-card clock, streaks, and tags that print their own arithmetic. *cli · Python 3, stdlib only · rubric 4.50* — [source](https://github.com/yinggarykairui/git-mood)
+A terminal mood chart for a git repo — tempo, a punch-card clock, streaks, and tags that print their own arithmetic. *cli · Python 3, stdlib only · rubric 4.75* — [source](https://github.com/yinggarykairui/git-mood)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
+| [git-mood](https://github.com/yinggarykairui/git-mood) | A terminal mood chart for a git repo — tempo, a punch-card clock, streaks, and tags that print their own arithmetic | Python 3, stdlib only | rubric 4.75 |
 | [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | The pen orbits your cursor — you steer, physics draws the flourishes | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
 | [trace-lens](https://github.com/yinggarykairui/trace-lens) | Deep-link any moment of the replay; opened tool cards survive scrubbing | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.50 |
 | [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | Undo, redo, and three pens — every stroke kept as a path, not a picture | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
 | [trace-lens](https://github.com/yinggarykairui/trace-lens) | A shared #t= link now lands in a tab you already have open, and the timeline answers the keyboard | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.50 |
-| [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | The page draws itself one flourish before you touch it, then gets out of the way | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
 
 *Ranked by reactions on ship issues, rubric score until the votes arrive.*
 
