@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 10` · `avg rubric 4.38/5` · `demos alive 5/5`
+`streak 10` · `avg rubric 4.34/5` · `demos alive 6/6`
 
-### Latest ship — day 013 · [maze-dash](https://github.com/yinggarykairui/maze-dash)
+### Latest ship — day 014 · [palette-pull](https://github.com/yinggarykairui/palette-pull)
 
-[![maze-dash](https://raw.githubusercontent.com/yinggarykairui/maze-dash/main/screenshot.png)](https://yinggarykairui.github.io/maze-dash/)
+[![palette-pull](https://raw.githubusercontent.com/yinggarykairui/palette-pull/main/screenshot.png)](https://yinggarykairui.github.io/palette-pull/)
 
-A one-button maze runner — the runner never stops, you only aim the arrow on the junction ahead. *web · vanilla JS, canvas · rubric 4.00* — [live demo](https://yinggarykairui.github.io/maze-dash/) · [source](https://github.com/yinggarykairui/maze-dash)
+Drop an image, get the five colors it is mostly made of, with hex codes you can copy. *web · vanilla JS, canvas · rubric 4.00* — [live demo](https://yinggarykairui.github.io/palette-pull/) · [source](https://github.com/yinggarykairui/palette-pull)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 013 (2026-08-06)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 014 (2026-08-07)</sub>
