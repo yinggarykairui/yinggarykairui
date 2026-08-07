@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 9` · `avg rubric 4.42/5` · `demos alive 4/4`
+`streak 10` · `avg rubric 4.38/5` · `demos alive 5/5`
 
-### Latest ship — day 012 · [git-mood](https://github.com/yinggarykairui/git-mood)
+### Latest ship — day 013 · [maze-dash](https://github.com/yinggarykairui/maze-dash)
 
-[![git-mood](https://raw.githubusercontent.com/yinggarykairui/git-mood/main/screenshot.png)](https://github.com/yinggarykairui/git-mood)
+[![maze-dash](https://raw.githubusercontent.com/yinggarykairui/maze-dash/main/screenshot.png)](https://yinggarykairui.github.io/maze-dash/)
 
-A terminal mood chart for a git repo — tempo, a punch-card clock, streaks, and tags that print their own arithmetic. *cli · Python 3, stdlib only · rubric 4.75* — [source](https://github.com/yinggarykairui/git-mood)
+A one-button maze runner — the runner never stops, you only aim the arrow on the junction ahead. *web · vanilla JS, canvas · rubric 4.00* — [live demo](https://yinggarykairui.github.io/maze-dash/) · [source](https://github.com/yinggarykairui/maze-dash)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 012 (2026-08-05)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 013 (2026-08-06)</sub>
