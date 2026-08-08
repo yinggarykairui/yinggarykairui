@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 10` · `avg rubric 4.34/5` · `demos alive 6/6`
+`streak 11` · `avg rubric 4.32/5` · `demos alive 7/7`
 
-### Latest ship — day 014 · [palette-pull](https://github.com/yinggarykairui/palette-pull)
+### Latest ship — day 015 · [cron-explain](https://github.com/yinggarykairui/cron-explain)
 
-[![palette-pull](https://raw.githubusercontent.com/yinggarykairui/palette-pull/main/screenshot.png)](https://yinggarykairui.github.io/palette-pull/)
+[![cron-explain](https://raw.githubusercontent.com/yinggarykairui/cron-explain/main/screenshot.png)](https://yinggarykairui.github.io/cron-explain/)
 
-Drop an image, get the five colors it is mostly made of, with hex codes you can copy. *web · vanilla JS, canvas · rubric 4.00* — [live demo](https://yinggarykairui.github.io/palette-pull/) · [source](https://github.com/yinggarykairui/palette-pull)
+Paste a cron expression, get plain English and the next five run times — including the day-of-month/day-of-week rule everyone gets wrong. *web · vanilla JS, zero deps · rubric 4.00* — [live demo](https://yinggarykairui.github.io/cron-explain/) · [source](https://github.com/yinggarykairui/cron-explain)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 014 (2026-08-07)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 015 (2026-08-08)</sub>
