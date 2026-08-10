@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 11` · `avg rubric 4.32/5` · `demos alive 7/7`
+`streak 12` · `avg rubric 4.31/5` · `demos alive 8/8`
 
-### Latest ship — day 015 · [cron-explain](https://github.com/yinggarykairui/cron-explain)
+### Latest ship — day 016 · [boids-tank](https://github.com/yinggarykairui/boids-tank)
 
-[![cron-explain](https://raw.githubusercontent.com/yinggarykairui/cron-explain/main/screenshot.png)](https://yinggarykairui.github.io/cron-explain/)
+[![boids-tank](https://raw.githubusercontent.com/yinggarykairui/boids-tank/main/screenshot.png)](https://yinggarykairui.github.io/boids-tank/)
 
-Paste a cron expression, get plain English and the next five run times — including the day-of-month/day-of-week rule everyone gets wrong. *web · vanilla JS, zero deps · rubric 4.00* — [live demo](https://yinggarykairui.github.io/cron-explain/) · [source](https://github.com/yinggarykairui/cron-explain)
+Three sliders for the three rules that make a flock, and a button that blows it apart. *web · vanilla JS, canvas · rubric 4.25* — [live demo](https://yinggarykairui.github.io/boids-tank/) · [source](https://github.com/yinggarykairui/boids-tank)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 015 (2026-08-08)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 016 (2026-08-09)</sub>
