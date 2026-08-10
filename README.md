@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 12` · `avg rubric 4.31/5` · `demos alive 8/8`
+`streak 13` · `avg rubric 4.32/5` · `demos alive 9/9`
 
-### Latest ship — day 016 · [boids-tank](https://github.com/yinggarykairui/boids-tank)
+### Latest ship — day 017 · [word-ladder](https://github.com/yinggarykairui/word-ladder)
 
-[![boids-tank](https://raw.githubusercontent.com/yinggarykairui/boids-tank/main/screenshot.png)](https://yinggarykairui.github.io/boids-tank/)
+[![word-ladder](https://raw.githubusercontent.com/yinggarykairui/word-ladder/main/screenshot.png)](https://yinggarykairui.github.io/word-ladder/)
 
-Three sliders for the three rules that make a flock, and a button that blows it apart. *web · vanilla JS, canvas · rubric 4.25* — [live demo](https://yinggarykairui.github.io/boids-tank/) · [source](https://github.com/yinggarykairui/boids-tank)
+A new four-letter ladder every day — same puzzle for everyone on the date, one letter at a time. *game · vanilla JS, zero deps · rubric 4.50* — [live demo](https://yinggarykairui.github.io/word-ladder/) · [source](https://github.com/yinggarykairui/word-ladder)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 016 (2026-08-09)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 017 (2026-08-10)</sub>
