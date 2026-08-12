@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 14` · `avg rubric 4.34/5` · `demos alive 10/10`
+`streak 15` · `avg rubric 4.33/5` · `demos alive 10/10`
 
-### Latest ship — day 018 · [json-tidy](https://github.com/yinggarykairui/json-tidy)
+### Latest ship — day 019 · [ascii-rain](https://github.com/yinggarykairui/ascii-rain)
 
-[![json-tidy](https://raw.githubusercontent.com/yinggarykairui/json-tidy/main/screenshot.png)](https://yinggarykairui.github.io/json-tidy/)
+[![ascii-rain](https://raw.githubusercontent.com/yinggarykairui/ascii-rain/main/screenshot.png)](https://github.com/yinggarykairui/ascii-rain)
 
-Paste JSON, get a collapsible tree, and copy any node's JSONPath with one click. *web · vanilla JS, zero deps · rubric 4.58* — [live demo](https://yinggarykairui.github.io/json-tidy/) · [source](https://github.com/yinggarykairui/json-tidy)
+Matrix-style terminal rain in one stdlib file — per-column speeds, bright head into a dim tail, and a terminal that always comes back. *cli · Python 3, stdlib curses · rubric 4.25* — [source](https://github.com/yinggarykairui/ascii-rain)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 018 (2026-08-11)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 019 (2026-08-12)</sub>
