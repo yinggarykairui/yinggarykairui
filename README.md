@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 15` · `avg rubric 4.33/5` · `demos alive 10/10`
+`streak 16` · `avg rubric 4.33/5` · `demos alive 11/11`
 
-### Latest ship — day 019 · [ascii-rain](https://github.com/yinggarykairui/ascii-rain)
+### Latest ship — day 020 · [sprite-stamp](https://github.com/yinggarykairui/sprite-stamp)
 
-[![ascii-rain](https://raw.githubusercontent.com/yinggarykairui/ascii-rain/main/screenshot.png)](https://github.com/yinggarykairui/ascii-rain)
+[![sprite-stamp](https://raw.githubusercontent.com/yinggarykairui/sprite-stamp/main/screenshot.png)](https://yinggarykairui.github.io/sprite-stamp/)
 
-Matrix-style terminal rain in one stdlib file — per-column speeds, bright head into a dim tail, and a terminal that always comes back. *cli · Python 3, stdlib curses · rubric 4.25* — [source](https://github.com/yinggarykairui/ascii-rain)
+A 16×16 pixel-art editor in one page — paint with a thumb, mirror down the middle, save a transparent PNG. *web · vanilla JS, canvas · rubric 4.33* — [live demo](https://yinggarykairui.github.io/sprite-stamp/) · [source](https://github.com/yinggarykairui/sprite-stamp)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 019 (2026-08-12)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 020 (2026-08-13)</sub>
