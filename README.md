@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 16` · `avg rubric 4.33/5` · `demos alive 11/11`
+`streak 17` · `avg rubric 4.33/5` · `demos alive 12/12`
 
-### Latest ship — day 020 · [sprite-stamp](https://github.com/yinggarykairui/sprite-stamp)
+### Latest ship — day 021 · [countup](https://github.com/yinggarykairui/countup)
 
-[![sprite-stamp](https://raw.githubusercontent.com/yinggarykairui/sprite-stamp/main/screenshot.png)](https://yinggarykairui.github.io/sprite-stamp/)
+[![countup](https://raw.githubusercontent.com/yinggarykairui/countup/main/screenshot.png)](https://yinggarykairui.github.io/countup/)
 
-A 16×16 pixel-art editor in one page — paint with a thumb, mirror down the middle, save a transparent PNG. *web · vanilla JS, canvas · rubric 4.33* — [live demo](https://yinggarykairui.github.io/sprite-stamp/) · [source](https://github.com/yinggarykairui/sprite-stamp)
+A "days since" page whose whole state is in the link — type a title and a date, send the URL, and the other person sees the same counter. *web · vanilla JS, zero deps · rubric 4.25* — [live demo](https://yinggarykairui.github.io/countup/) · [source](https://github.com/yinggarykairui/countup)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 020 (2026-08-13)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 021 (2026-08-14)</sub>
