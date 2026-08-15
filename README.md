@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 17` · `avg rubric 4.33/5` · `demos alive 12/12`
+`streak 18` · `avg rubric 4.33/5` · `demos alive 13/13`
 
-### Latest ship — day 021 · [countup](https://github.com/yinggarykairui/countup)
+### Latest ship — day 022 · [snake-flee](https://github.com/yinggarykairui/snake-flee)
 
-[![countup](https://raw.githubusercontent.com/yinggarykairui/countup/main/screenshot.png)](https://yinggarykairui.github.io/countup/)
+[![snake-flee](https://raw.githubusercontent.com/yinggarykairui/snake-flee/main/screenshot.png)](https://yinggarykairui.github.io/snake-flee/)
 
-A "days since" page whose whole state is in the link — type a title and a date, send the URL, and the other person sees the same counter. *web · vanilla JS, zero deps · rubric 4.25* — [live demo](https://yinggarykairui.github.io/countup/) · [source](https://github.com/yinggarykairui/countup)
+Snake with one twist — the food runs away from you, at half your speed, wrapping the same way you do. *game · vanilla JS, canvas · rubric 4.42* — [live demo](https://yinggarykairui.github.io/snake-flee/) · [source](https://github.com/yinggarykairui/snake-flee)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 021 (2026-08-14)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 022 (2026-08-15)</sub>
