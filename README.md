@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 19` · `avg rubric 4.33/5` · `demos alive 14/14`
+`streak **20**` · `avg rubric **4.34**/5` · `demos alive 15/15`
 
-### Latest ship — day 023 · [regex-lab](https://github.com/yinggarykairui/regex-lab)
+### Latest ship — day 024 · [noise-poster](https://github.com/yinggarykairui/noise-poster)
 
-[![regex-lab](https://raw.githubusercontent.com/yinggarykairui/regex-lab/main/screenshot.png)](https://yinggarykairui.github.io/regex-lab/)
+[![noise-poster](https://raw.githubusercontent.com/yinggarykairui/noise-poster/main/screenshot.png)](https://yinggarykairui.github.io/noise-poster/)
 
-A live JavaScript regex tester — matches highlight as you type, and a pattern that backtracks forever gets killed at 400 ms. *web · vanilla JS, Web Worker · rubric 4.25* — [live demo](https://yinggarykairui.github.io/regex-lab/) · [source](https://github.com/yinggarykairui/regex-lab)
+A printable A4 poster from five octaves of seeded value noise — seed and palette live in the URL hash. *web · vanilla JS, canvas · rubric 4.46* — [live demo](https://yinggarykairui.github.io/noise-poster/) · [source](https://github.com/yinggarykairui/noise-poster)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 023 (2026-08-16)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 024 (2026-08-17)</sub>
