@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak 18` · `avg rubric 4.33/5` · `demos alive 13/13`
+`streak 19` · `avg rubric 4.33/5` · `demos alive 14/14`
 
-### Latest ship — day 022 · [snake-flee](https://github.com/yinggarykairui/snake-flee)
+### Latest ship — day 023 · [regex-lab](https://github.com/yinggarykairui/regex-lab)
 
-[![snake-flee](https://raw.githubusercontent.com/yinggarykairui/snake-flee/main/screenshot.png)](https://yinggarykairui.github.io/snake-flee/)
+[![regex-lab](https://raw.githubusercontent.com/yinggarykairui/regex-lab/main/screenshot.png)](https://yinggarykairui.github.io/regex-lab/)
 
-Snake with one twist — the food runs away from you, at half your speed, wrapping the same way you do. *game · vanilla JS, canvas · rubric 4.42* — [live demo](https://yinggarykairui.github.io/snake-flee/) · [source](https://github.com/yinggarykairui/snake-flee)
+A live JavaScript regex tester — matches highlight as you type, and a pattern that backtracks forever gets killed at 400 ms. *web · vanilla JS, Web Worker · rubric 4.25* — [live demo](https://yinggarykairui.github.io/regex-lab/) · [source](https://github.com/yinggarykairui/regex-lab)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 022 (2026-08-15)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 023 (2026-08-16)</sub>
