@@ -5,13 +5,13 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak **21**` · `avg rubric **4.34**/5` · `demos alive 16/16`
+`streak **22**` · `avg rubric **4.35**/5` · `demos alive 17/17`
 
-### Latest ship — day 025 · [tool-loop-viz](https://github.com/yinggarykairui/tool-loop-viz)
+### Latest ship — day 026 · [critic-loop](https://github.com/yinggarykairui/critic-loop)
 
-[![tool-loop-viz](https://raw.githubusercontent.com/yinggarykairui/tool-loop-viz/main/screenshot.png)](https://yinggarykairui.github.io/tool-loop-viz/)
+[![critic-loop](https://raw.githubusercontent.com/yinggarykairui/critic-loop/main/screenshot.png)](https://yinggarykairui.github.io/critic-loop/)
 
-Paste an agent's tool-call log and walk the loop one step at a time — three transcript dialects, no key, no network. *agent · vanilla JS, zero deps · rubric 4.50* — [live demo](https://yinggarykairui.github.io/tool-loop-viz/) · [source](https://github.com/yinggarykairui/tool-loop-viz)
+Paste a paragraph and watch a critic mark what is wrong, three passes deep, with the critique shown between every draft. *agent · vanilla JS, zero deps · rubric 4.50* — [live demo](https://yinggarykairui.github.io/critic-loop/) · [source](https://github.com/yinggarykairui/critic-loop)
 
 ### Best builds
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 025 (2026-08-18)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 026 (2026-08-19)</sub>
