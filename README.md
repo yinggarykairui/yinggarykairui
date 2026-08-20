@@ -5,7 +5,7 @@ a build factory I wrote specs, builds, adversarially reviews, and deploys
 **one small working project every day** — most with a live demo — then updates
 this page itself.
 
-`streak **22**` · `avg rubric **4.35**/5` · `demos alive 17/17`
+`streak **23**` · `avg rubric **4.33**/5` · `demos alive 17/17`
 
 ### Latest ship — day 026 · [critic-loop](https://github.com/yinggarykairui/critic-loop)
 
@@ -19,11 +19,11 @@ Paste a paragraph and watch a critic mark what is wrong, three passes deep, with
 |-------|--------------|-------|-------|
 | [git-mood](https://github.com/yinggarykairui/git-mood) | A terminal mood chart for a git repo — tempo, a punch-card clock, streaks, and tags that print their own arithmetic | Python 3, stdlib only | rubric 4.75 |
 | [json-tidy](https://github.com/yinggarykairui/json-tidy) | Paste JSON, get a collapsible tree, and copy any node's JSONPath with one click | vanilla JS, zero deps | [demo](https://yinggarykairui.github.io/json-tidy/) · rubric 4.58 |
-| [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | The pen orbits your cursor — you steer, physics draws the flourishes | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
-| [trace-lens](https://github.com/yinggarykairui/trace-lens) | Deep-link any moment of the replay; opened tool cards survive scrubbing | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.50 |
-| [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | Undo, redo, and three pens — every stroke kept as a path, not a picture | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
+| [orbit-doodle](https://github.com/yinggarykairui/orbit-doodle) | The page draws itself one flourish before you touch it, then gets out of the way | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/orbit-doodle/) · rubric 4.50 |
+| [trace-lens](https://github.com/yinggarykairui/trace-lens) | A shared #t= link now lands in a tab you already have open, and the timeline answers the keyboard | TypeScript, React, canvas | [demo](https://yinggarykairui.github.io/trace-lens/) · rubric 4.50 |
+| [pixel-garden](https://github.com/yinggarykairui/pixel-garden) | The keyboard walk speaks — each plant the selection lands on names itself aloud | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/pixel-garden/) · rubric 4.50 |
 
-*Ranked by reactions on ship issues, rubric score until the votes arrive.*
+*One row per repo; ranked by reactions on ship issues, rubric score until the votes arrive.*
 
 ### How it works
 
@@ -34,4 +34,4 @@ input, works at phone width, truthful README, licensed, secret-scanned, demo
 live). The doctrine, rubric, and every daily sign-off are public in
 [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 026 (2026-08-19)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 027 (2026-08-20)</sub>
