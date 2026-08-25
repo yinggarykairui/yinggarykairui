@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 29 of its 30 days**, most with a live
+small working projects — **19 of them, on 30 of its 31 days**, most with a live
 demo — then updates this page itself.
 
-`streak 26` · `avg rubric 4.30/5` · `demos 17/17 serving, 14 render-proven` · `15/30 independently verified`
+`streak 27` · `avg rubric 4.27/5` · `demos 17/17 serving, 14 render-proven` · `16/31 independently verified`
 
-### Latest project ship — day 030 · [git-mood](https://github.com/yinggarykairui/git-mood)
+### Latest project ship — day 031 · [maze-dash](https://github.com/yinggarykairui/maze-dash)
 
-[![git-mood](https://raw.githubusercontent.com/yinggarykairui/git-mood/main/screenshot.png)](https://github.com/yinggarykairui/git-mood)
+[![maze-dash](https://raw.githubusercontent.com/yinggarykairui/maze-dash/main/screenshot.png)](https://yinggarykairui.github.io/maze-dash/)
 
-Two mood tags stop firing on the absence of a pattern — each window tag now clears the share an evenly spread history puts there, and prints it. *cli · Python 3, stdlib only · rubric 4.00* — [source](https://github.com/yinggarykairui/git-mood)
+The cleared maze says so on the board — a 200 ms amber wash under the marks — and the strategy that actually wins is on screen for the first time. *game · vanilla JS, canvas · rubric 3.50* — [live demo](https://yinggarykairui.github.io/maze-dash/) · [source](https://github.com/yinggarykairui/maze-dash)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 030 (2026-08-23)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 031 (2026-08-24)</sub>
