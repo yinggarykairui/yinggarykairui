@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 30 of its 31 days**, most with a live
+small working projects — **19 of them, on 31 of its 32 days**, most with a live
 demo — then updates this page itself.
 
-`streak 27` · `avg rubric 4.27/5` · `demos 17/17 serving, 15 render-proven` · `16/31 independently verified`
+`streak 28` · `avg rubric 4.27/5` · `demos 17/17 serving, 16 render-proven` · `17/32 independently verified`
 
-### Latest project ship — day 031 · [maze-dash](https://github.com/yinggarykairui/maze-dash)
+### Latest project ship — day 032 · [palette-pull](https://github.com/yinggarykairui/palette-pull)
 
-[![maze-dash](https://raw.githubusercontent.com/yinggarykairui/maze-dash/main/screenshot.png)](https://yinggarykairui.github.io/maze-dash/)
+[![palette-pull](https://raw.githubusercontent.com/yinggarykairui/palette-pull/main/screenshot.png)](https://yinggarykairui.github.io/palette-pull/)
 
-The cleared maze says so on the board — a 200 ms amber wash under the marks — and the strategy that actually wins is on screen for the first time. *game · vanilla JS, canvas · rubric 3.50* — [live demo](https://yinggarykairui.github.io/maze-dash/) · [source](https://github.com/yinggarykairui/maze-dash)
+The page says what it gives you before you give it anything, says out loud that a swatch is clickable, and stops scrolling sideways at 200 % text zoom. *web · vanilla JS, canvas · rubric 4.08* — [live demo](https://yinggarykairui.github.io/palette-pull/) · [source](https://github.com/yinggarykairui/palette-pull)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 031 (2026-08-24)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 032 (2026-08-25)</sub>
