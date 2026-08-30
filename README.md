@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 33 of its 35 days**, most with a live
+small working projects — **19 of them, on 34 of its 36 days**, most with a live
 demo — then updates this page itself.
 
-`streak 2` · `avg rubric 4.26/5` · `demos 17/17 serving` · `19/34 independently verified`
+`streak 3` · `avg rubric 4.26/5` · `demos 17/17 serving` · `19/35 independently verified`
 
-### Latest project ship — day 033 · [cron-explain](https://github.com/yinggarykairui/cron-explain)
+### Latest project ship — day 035 · [boids-tank](https://github.com/yinggarykairui/boids-tank)
 
-[![cron-explain](https://raw.githubusercontent.com/yinggarykairui/cron-explain/main/screenshot.png)](https://yinggarykairui.github.io/cron-explain/)
+[![boids-tank](https://raw.githubusercontent.com/yinggarykairui/boids-tank/main/screenshot.png)](https://yinggarykairui.github.io/boids-tank/)
 
-The share link finally carries the zone it was read in, and the 320/360 no-sideways-scroll sweep stops being a habit and becomes an assertion. *web · vanilla JS, zero deps · rubric 4.50* — [live demo](https://yinggarykairui.github.io/cron-explain/) · [source](https://github.com/yinggarykairui/cron-explain)
+The separation slider stops hiding its whole range in a fifth of its travel, and the tank edge is finally dark enough for "edges wrap" to name something you can see. *web · vanilla JS, canvas · rubric 4.33* — [live demo](https://yinggarykairui.github.io/boids-tank/) · [source](https://github.com/yinggarykairui/boids-tank)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 034 (2026-08-28), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 035 (2026-08-29)</sub>
