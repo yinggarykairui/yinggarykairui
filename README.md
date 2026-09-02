@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 37 of its 39 days**, most with a live
+small working projects — **19 of them, on 38 of its 40 days**, most with a live
 demo — then updates this page itself.
 
-`streak 6` · `avg rubric 4.27/5` · `demos 17/17 serving` · `21/38 independently verified`
+`streak 7` · `avg rubric 4.25/5` · `demos 17/17 serving` · `22/39 independently verified`
 
-### Latest project ship — day 038 · [ascii-rain](https://github.com/yinggarykairui/ascii-rain)
+### Latest project ship — day 039 · [sprite-stamp](https://github.com/yinggarykairui/sprite-stamp)
 
-[![ascii-rain](https://raw.githubusercontent.com/yinggarykairui/ascii-rain/main/screenshot.png)](https://github.com/yinggarykairui/ascii-rain)
+[![sprite-stamp](https://raw.githubusercontent.com/yinggarykairui/sprite-stamp/main/screenshot.png)](https://yinggarykairui.github.io/sprite-stamp/)
 
-A caught signal now exits like a signal, `TERM=dumb` is refused before anything is drawn instead of half-drawn forever, and a terminal whose `dim` ncurses will not emit gets its third tier from density instead. *cli · Python 3, stdlib only · rubric 4.50* — [source](https://github.com/yinggarykairui/ascii-rain)
+A landscape phone finally sees the whole editor, the hairline grid becomes a toggle you can turn on, and the desktop board stops being a phone board. *web · vanilla JS, canvas · rubric 3.63* — [live demo](https://yinggarykairui.github.io/sprite-stamp/) · [source](https://github.com/yinggarykairui/sprite-stamp)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 038 (2026-09-01)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 039 (2026-09-02)</sub>
