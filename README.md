@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 43 of its 45 days**, most with a live
+small working projects — **19 of them, on 44 of its 46 days**, most with a live
 demo — then updates this page itself.
 
-`streak 12` · `avg rubric 4.25/5` · `demos 17/17 serving` · `23/44 independently verified`
+`streak 13` · `avg rubric 4.25/5` · `demos 17/17 serving` · `24/45 independently verified`
 
-### Latest project ship — day 044 · [regex-lab](https://github.com/yinggarykairui/regex-lab)
+### Latest project ship — day 045 · [noise-poster](https://github.com/yinggarykairui/noise-poster)
 
-[![regex-lab](https://raw.githubusercontent.com/yinggarykairui/regex-lab/main/screenshot.png)](https://yinggarykairui.github.io/regex-lab/)
+[![noise-poster](https://raw.githubusercontent.com/yinggarykairui/noise-poster/main/screenshot.png)](https://yinggarykairui.github.io/noise-poster/)
 
-A long bad pattern stops shoving the page around, the phone stops jumping while you build a group, and the three panes finally read as three. *web · vanilla JS, Web Worker · rubric 4.13* — [live demo](https://yinggarykairui.github.io/regex-lab/) · [source](https://github.com/yinggarykairui/regex-lab)
+A no-op stops wiping a true announcement, the desktop layout's dead slab is split evenly above and below the controls, and the README finally names the file you download. *web · vanilla JS, canvas · rubric 4.17* — [live demo](https://yinggarykairui.github.io/noise-poster/) · [source](https://github.com/yinggarykairui/noise-poster)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 044 (2026-09-07)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 045 (2026-09-08)</sub>
