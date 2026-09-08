@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 42 of its 44 days**, most with a live
+small working projects — **19 of them, on 43 of its 45 days**, most with a live
 demo — then updates this page itself.
 
-`streak 11` · `avg rubric 4.25/5` · `demos 17/17 serving` · `23/43 independently verified`
+`streak 12` · `avg rubric 4.25/5` · `demos 17/17 serving` · `23/44 independently verified`
 
-### Latest project ship — day 042 · [snake-flee](https://github.com/yinggarykairui/snake-flee)
+### Latest project ship — day 044 · [regex-lab](https://github.com/yinggarykairui/regex-lab)
 
-[![snake-flee](https://raw.githubusercontent.com/yinggarykairui/snake-flee/main/screenshot.png)](https://yinggarykairui.github.io/snake-flee/)
+[![regex-lab](https://raw.githubusercontent.com/yinggarykairui/regex-lab/main/screenshot.png)](https://yinggarykairui.github.io/regex-lab/)
 
-Filling the board is a win instead of a death, the board is square at every window width, and the suite finally drives the page it ships instead of a replica of it. *game · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/snake-flee/) · [source](https://github.com/yinggarykairui/snake-flee)
+A long bad pattern stops shoving the page around, the phone stops jumping while you build a group, and the three panes finally read as three. *web · vanilla JS, Web Worker · rubric 4.13* — [live demo](https://yinggarykairui.github.io/regex-lab/) · [source](https://github.com/yinggarykairui/regex-lab)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 043 (2026-09-06), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 044 (2026-09-07)</sub>
