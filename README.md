@@ -2,10 +2,10 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 48 of its 52 days**, most with a live
+small working projects — **19 of them, on 49 of its 54 days**, most with a live
 demo — then updates this page itself.
 
-`streak 1` · `avg rubric 4.23/5` · `demos 17/17 serving` · `31/49 independently verified`
+`streak 1` · `avg rubric 4.20/5` · `demos 17/17 serving` · `31/50 independently verified`
 
 ### Latest project ship — day 047 · [critic-loop](https://github.com/yinggarykairui/critic-loop)
 
@@ -23,7 +23,7 @@ A critique panel shows one worked example per rule instead of nine open boxes, t
 | [tool-loop-viz](https://github.com/yinggarykairui/tool-loop-viz) | A dropped binary is refused by name instead of tipped into the paste box, a megabyte paste stops being left in a box you cannot type in, and one breakpoint finally governs the whole page | vanilla JS, zero deps | [demo](https://yinggarykairui.github.io/tool-loop-viz/) · rubric 4.50 |
 | [snake-flee](https://github.com/yinggarykairui/snake-flee) | Filling the board is a win instead of a death, the board is square at every window width, and the suite finally drives the page it ships instead of a replica of it | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/snake-flee/) · rubric 4.50 |
 
-*One row per repo — ranked by 👍 on its ship issues, or by its best rubric until the votes arrive. The sentence describes the repo's latest increment.*
+*One row per repo — ranked by best rubric — the reaction lookup did not answer on this run. The sentence describes the repo's latest increment.*
 
 ### How it works
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 049 (2026-09-14), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 050 (2026-09-16), a factory upkeep ship</sub>
