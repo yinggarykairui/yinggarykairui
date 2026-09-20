@@ -2,22 +2,22 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **19 of them, on 51 of its 57 days**, most with a live
+small working projects — **19 of them, on 52 of its 58 days**, most with a live
 demo — then updates this page itself.
 
-`streak 1` · `avg rubric 4.20/5` · `demos 17/17 serving` · `32/52 independently verified`
+`streak 2` · `avg rubric 4.19/5` · `demos 17/17 serving` · `32/53 independently verified`
 
-### Latest project ship — day 052 · [git-mood](https://github.com/yinggarykairui/git-mood)
+### Latest project ship — day 053 · [git-mood](https://github.com/yinggarykairui/git-mood)
 
 [![git-mood](https://raw.githubusercontent.com/yinggarykairui/git-mood/main/screenshot.png)](https://github.com/yinggarykairui/git-mood)
 
-`--help` loses its essays without losing a true statement, the truncation marker stops making a fourth dot, and the new near-miss suggestion stops naming an option you did not mean. *cli · Python 3, stdlib only · rubric 4.08* — [source](https://github.com/yinggarykairui/git-mood)
+The counts line stops running a cell past its own rule — the width budget it computes is now applied to every form it was computed for. *cli · Python 3, stdlib only · rubric 3.67* — [source](https://github.com/yinggarykairui/git-mood)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
-| [git-mood](https://github.com/yinggarykairui/git-mood) | `--help` loses its essays without losing a true statement, the truncation marker stops making a fourth dot, and the new near-miss suggestion stops naming an option you did not mean | Python 3, stdlib only | rubric 4.75 |
+| [git-mood](https://github.com/yinggarykairui/git-mood) | The counts line stops running a cell past its own rule — the width budget it computes is now applied to every form it was computed for | Python 3, stdlib only | rubric 4.75 |
 | [json-tidy](https://github.com/yinggarykairui/json-tidy) | An edit stops costing you the tree — the nodes you opened, their batches and your scroll place all survive a re-parse, and a parse error no longer wipes the view | vanilla JS, zero deps | [demo](https://yinggarykairui.github.io/json-tidy/) · rubric 4.58 |
 | [critic-loop](https://github.com/yinggarykairui/critic-loop) | A critique panel shows one worked example per rule instead of nine open boxes, the sample that lands is the one offered first, and the verdict says what landed before it says what is left | vanilla JS, zero deps | [demo](https://yinggarykairui.github.io/critic-loop/) · rubric 4.50 |
 | [tool-loop-viz](https://github.com/yinggarykairui/tool-loop-viz) | A dropped binary is refused by name instead of tipped into the paste box, a megabyte paste stops being left in a box you cannot type in, and one breakpoint finally governs the whole page | vanilla JS, zero deps | [demo](https://yinggarykairui.github.io/tool-loop-viz/) · rubric 4.50 |
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 052 (2026-09-19)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 053 (2026-09-20)</sub>
