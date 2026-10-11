@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **20 of them, on 54 of its 78 days**, most with a live
+small working projects — **21 of them, on 55 of its 79 days**, most with a live
 demo — then updates this page itself.
 
-`streak 2` · `avg rubric 4.19/5` · `demos 17/17 serving` · `35/55 independently verified`
+`streak 3` · `avg rubric 4.19/5` · `demos 17/17 serving` · `35/56 independently verified`
 
-### Latest project ship — day 055 · [tile-forge](https://github.com/yinggarykairui/tile-forge)
+### Latest project ship — day 056 · [dialogue-loom](https://github.com/yinggarykairui/dialogue-loom)
 
-[![tile-forge](https://raw.githubusercontent.com/yinggarykairui/tile-forge/main/screenshot.png)](https://yinggarykairui.github.io/tile-forge/)
+[![dialogue-loom](https://raw.githubusercontent.com/yinggarykairui/dialogue-loom/main/screenshot.png)](https://yinggarykairui.github.io/dialogue-loom/)
 
-Paint a tilemap with a procedural palette and export it as JSON — brush, bucket fill, undo/redo, and a round-trip import, on phone or desktop. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/tile-forge/) · [source](https://github.com/yinggarykairui/tile-forge)
+Build a branching conversation — nodes, choices, flags, procedural portraits — then play it back and export it as JSON. *web · vanilla JS, inline SVG · rubric 4.25* — [live demo](https://yinggarykairui.github.io/dialogue-loom/) · [source](https://github.com/yinggarykairui/dialogue-loom)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 055 (2026-10-10)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 056 (2026-10-11)</sub>
