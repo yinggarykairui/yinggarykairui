@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **25 of them, on 59 of its 83 days**, most with a live
+small working projects — **26 of them, on 60 of its 84 days**, most with a live
 demo — then updates this page itself.
 
-`streak 7` · `avg rubric 4.23/5` · `demos 17/17 serving` · `35/60 independently verified`
+`streak 8` · `avg rubric 4.23/5` · `demos 17/17 serving` · `35/61 independently verified`
 
-### Latest project ship — day 060 · [dungeon-sprout](https://github.com/yinggarykairui/dungeon-sprout)
+### Latest project ship — day 061 · [npc-clockwork](https://github.com/yinggarykairui/npc-clockwork)
 
-[![dungeon-sprout](https://raw.githubusercontent.com/yinggarykairui/dungeon-sprout/main/screenshot.png)](https://yinggarykairui.github.io/dungeon-sprout/)
+[![npc-clockwork](https://raw.githubusercontent.com/yinggarykairui/npc-clockwork/main/screenshot.png)](https://yinggarykairui.github.io/npc-clockwork/)
 
-Walk a seeded procedural dungeon in the dark — rooms and corridors grow from one number, fog of war reveals a disc as you move, a minimap fills in, and the layout exports as JSON. *game · vanilla JS, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/dungeon-sprout/) · [source](https://github.com/yinggarykairui/dungeon-sprout)
+Four villagers keep daily schedules on a 24-hour clock — watch anyone's day, pause or fast-forward time, and hold a resident to interrupt their errand mid-step. *game · vanilla JS, canvas · rubric 4.25* — [live demo](https://yinggarykairui.github.io/npc-clockwork/) · [source](https://github.com/yinggarykairui/npc-clockwork)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 060 (2026-10-15)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 061 (2026-10-16)</sub>
