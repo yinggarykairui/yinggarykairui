@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **31 of them, on 65 of its 89 days**, most with a live
+small working projects — **32 of them, on 66 of its 90 days**, most with a live
 demo — then updates this page itself.
 
-`streak 13` · `avg rubric 4.27/5` · `demos 17/17 serving` · `35/66 independently verified`
+`streak 14` · `avg rubric 4.27/5` · `demos 17/17 serving` · `35/67 independently verified`
 
-### Latest project ship — day 066 · [battle-brains](https://github.com/yinggarykairui/battle-brains)
+### Latest project ship — day 067 · [overworld-express](https://github.com/yinggarykairui/overworld-express)
 
-[![battle-brains](https://raw.githubusercontent.com/yinggarykairui/battle-brains/main/screenshot.png)](https://yinggarykairui.github.io/battle-brains/)
+[![overworld-express](https://raw.githubusercontent.com/yinggarykairui/overworld-express/main/screenshot.png)](https://yinggarykairui.github.io/overworld-express/)
 
-Three enemy AI personalities share one arena — the aggressor charges, the coward darts and bolts, the pack circles and strikes together — survive on three hearts with a ward pulse that breaks each mind its own way. *game · vanilla JS, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/battle-brains/) · [source](https://github.com/yinggarykairui/battle-brains)
+Walk a top-down overworld bigger than the screen — a camera follows and clamps to the edges, water and trees and walls block you, and crossing from meadow to the sands to a stone pass is announced; loads tile-forge maps. *game · vanilla JS, canvas · rubric 4.25* — [live demo](https://yinggarykairui.github.io/overworld-express/) · [source](https://github.com/yinggarykairui/overworld-express)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 066 (2026-10-21)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 067 (2026-10-22)</sub>
