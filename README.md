@@ -2,26 +2,26 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **32 of them, on 66 of its 90 days**, most with a live
+small working projects — **33 of them, on 67 of its 91 days**, most with a live
 demo — then updates this page itself.
 
-`streak 14` · `avg rubric 4.27/5` · `demos 17/17 serving` · `35/67 independently verified`
+`streak 15` · `avg rubric 4.27/5` · `demos 17/17 serving` · `35/68 independently verified`
 
-### Latest project ship — day 067 · [overworld-express](https://github.com/yinggarykairui/overworld-express)
+### Latest project ship — day 068 · [rpg-atlas](https://github.com/yinggarykairui/rpg-atlas)
 
-[![overworld-express](https://raw.githubusercontent.com/yinggarykairui/overworld-express/main/screenshot.png)](https://yinggarykairui.github.io/overworld-express/)
+[![rpg-atlas](https://raw.githubusercontent.com/yinggarykairui/rpg-atlas/main/screenshot.png)](https://yinggarykairui.github.io/rpg-atlas/)
 
-Walk a top-down overworld bigger than the screen — a camera follows and clamps to the edges, water and trees and walls block you, and crossing from meadow to the sands to a stone pass is announced; loads tile-forge maps. *game · vanilla JS, canvas · rubric 4.25* — [live demo](https://yinggarykairui.github.io/overworld-express/) · [source](https://github.com/yinggarykairui/overworld-express)
+"Anatomy of a 2D RPG" — an interactive atlas mapping the thirteen shipped arc demos (days 055–067) as the subsystems of a role-playing game across five territories; each landmark is a button that opens its live demo and source. *web · vanilla JS, inline SVG · rubric 4.75* — [live demo](https://yinggarykairui.github.io/rpg-atlas/) · [source](https://github.com/yinggarykairui/rpg-atlas)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
 | [pocket-inventory](https://github.com/yinggarykairui/pocket-inventory) | A drag-and-drop RPG inventory — move items on a grid, equip them into typed slots, and watch Attack/Defense/Luck change, on phone or desktop | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/pocket-inventory/) · rubric 5.00 |
+| [rpg-atlas](https://github.com/yinggarykairui/rpg-atlas) | "Anatomy of a 2D RPG" — an interactive atlas mapping the thirteen shipped arc demos (days 055–067) as the subsystems of a role-playing game across five territories; each landmark is a button that opens its live demo and source | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/rpg-atlas/) · rubric 4.75 |
 | [battle-brains](https://github.com/yinggarykairui/battle-brains) | Three enemy AI personalities share one arena — the aggressor charges, the coward darts and bolts, the pack circles and strikes together — survive on three hearts with a ward pulse that breaks each mind its own way | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/battle-brains/) · rubric 4.75 |
 | [ink-quest](https://github.com/yinggarykairui/ink-quest) | A single hand-inked wayshrine at dusk and one choice that decides the ending — take the sword, light the lantern, or follow the raven, each a distinct ink ending down its own road, drawn on in SVG line art | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/ink-quest/) · rubric 4.75 |
 | [save-crystal](https://github.com/yinggarykairui/save-crystal) | A save system for a 2D RPG — named slots, checksum-guarded snapshots, schema migration, and a corruption guard that refuses a bad save instead of loading garbage | vanilla JS, localStorage | [demo](https://yinggarykairui.github.io/save-crystal/) · rubric 4.75 |
-| [shop-keeper](https://github.com/yinggarykairui/shop-keeper) | Buy low and sell high across seeded market days, haggling each trade three pushes toward the fair price — grow 120 gold to 400 as supply and demand swing every price, and you are the only supply and demand | vanilla JS, zero deps | [demo](https://yinggarykairui.github.io/shop-keeper/) · rubric 4.75 |
 
 *One row per repo — ranked by best rubric — the reaction lookup did not answer on this run. The sentence describes the repo's latest increment.*
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 067 (2026-10-22)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 068 (2026-10-23)</sub>
