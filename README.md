@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **33 of them, on 67 of its 91 days**, most with a live
+small working projects — **34 of them, on 68 of its 92 days**, most with a live
 demo — then updates this page itself.
 
-`streak 15` · `avg rubric 4.27/5` · `demos 17/17 serving` · `35/68 independently verified`
+`streak 16` · `avg rubric 4.28/5` · `demos 17/17 serving` · `35/69 independently verified`
 
-### Latest project ship — day 068 · [rpg-atlas](https://github.com/yinggarykairui/rpg-atlas)
+### Latest project ship — day 069 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
 
-[![rpg-atlas](https://raw.githubusercontent.com/yinggarykairui/rpg-atlas/main/screenshot.png)](https://yinggarykairui.github.io/rpg-atlas/)
+[![ember-vale](https://raw.githubusercontent.com/yinggarykairui/ember-vale/main/screenshot.png)](https://yinggarykairui.github.io/ember-vale/)
 
-"Anatomy of a 2D RPG" — an interactive atlas mapping the thirteen shipped arc demos (days 055–067) as the subsystems of a role-playing game across five territories; each landmark is a button that opens its live demo and source. *web · vanilla JS, inline SVG · rubric 4.75* — [live demo](https://yinggarykairui.github.io/rpg-atlas/) · [source](https://github.com/yinggarykairui/rpg-atlas)
+The capstone epic, increment 1/6 — a short 2D RPG built one piece at a time; increment 1 is the overworld: walk a hand-authored dusk valley with axis-separated collision and a clamped camera, and read its signposts and the dimming Ember. *game · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/ember-vale/) · [source](https://github.com/yinggarykairui/ember-vale)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 068 (2026-10-23)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 069 (2026-10-24)</sub>
