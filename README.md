@@ -2,23 +2,23 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 73 of its 97 days**, most with a live
+small working projects — **34 of them, on 74 of its 98 days**, most with a live
 demo — then updates this page itself.
 
-`streak 21` · `avg rubric 4.30/5` · `demos 17/17 serving` · `37/74 independently verified`
+`streak 22` · `avg rubric 4.31/5` · `demos 17/17 serving` · `37/75 independently verified`
 
-### Latest project ship — day 073 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
+### Latest project ship — day 075 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
 
 [![ember-vale](https://raw.githubusercontent.com/yinggarykairui/ember-vale/main/screenshot.png)](https://yinggarykairui.github.io/ember-vale/)
 
-The capstone epic, increment 3/6 — what you carry: emberseeds and an iron key you pick up by walking onto them, a "What you carry" pouch (the pocket-inventory pattern) with icon/name/description slots and a ✦ n/3 seed HUD, and one locked door the iron key opens to reach the third seed sealed in a cottage. *game · vanilla JS, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/ember-vale/) · [source](https://github.com/yinggarykairui/ember-vale)
+The capstone epic, increment 4/6 — the thread of the quest: a canvas quest log (press Q or tap Quests) that reads straight off the world — flags, your bag, the seed count — so it is never out of step; the Warden's charge becomes the main quest to relight the Ember, tracked through its steps but left truthfully in progress (gather all three seeds and the last step still waits on what guards the dark); and a fully-completable side errand, a light for Mira's window — fetch an old lantern from a shuttered cottage, bring it to her, and her window glows and her words change to match. *game · vanilla JS, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/ember-vale/) · [source](https://github.com/yinggarykairui/ember-vale)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
 | [pocket-inventory](https://github.com/yinggarykairui/pocket-inventory) | A drag-and-drop RPG inventory — move items on a grid, equip them into typed slots, and watch Attack/Defense/Luck change, on phone or desktop | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/pocket-inventory/) · rubric 5.00 |
-| [ember-vale](https://github.com/yinggarykairui/ember-vale) | The capstone epic, increment 3/6 — what you carry: emberseeds and an iron key you pick up by walking onto them, a "What you carry" pouch (the pocket-inventory pattern) with icon/name/description slots and a ✦ n/3 seed HUD, and one locked door the iron key opens to reach the third seed sealed in a cottage | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/ember-vale/) · rubric 4.75 |
+| [ember-vale](https://github.com/yinggarykairui/ember-vale) | The capstone epic, increment 4/6 — the thread of the quest: a canvas quest log (press Q or tap Quests) that reads straight off the world — flags, your bag, the seed count — so it is never out of step; the Warden's charge becomes the main quest to relight the Ember, tracked through its steps but left truthfully in progress (gather all three seeds and the last step still waits on what guards the dark); and a fully-completable side errand, a light for Mira's window — fetch an old lantern from a shuttered cottage, bring it to her, and her window glows and her words change to match | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/ember-vale/) · rubric 4.75 |
 | [git-mood](https://github.com/yinggarykairui/git-mood) | main() restores the caller's SIGINT and SIGPIPE disposition, so importing git-mood and calling main() no longer leaves the caller deaf to its own Ctrl-C or its next broken pipe fatal; the README documents the --flag=value attached form and a bare - as a path | Python 3, stdlib only | rubric 4.75 |
 | [rpg-atlas](https://github.com/yinggarykairui/rpg-atlas) | "Anatomy of a 2D RPG" — an interactive atlas mapping the thirteen shipped arc demos (days 055–067) as the subsystems of a role-playing game across five territories; each landmark is a button that opens its live demo and source | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/rpg-atlas/) · rubric 4.75 |
 | [battle-brains](https://github.com/yinggarykairui/battle-brains) | Three enemy AI personalities share one arena — the aggressor charges, the coward darts and bolts, the pack circles and strikes together — survive on three hearts with a ward pulse that breaks each mind its own way | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/battle-brains/) · rubric 4.75 |
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 074 (2026-10-29), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 075 (2026-10-30)</sub>
