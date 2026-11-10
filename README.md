@@ -2,10 +2,10 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 79 of its 106 days**, most with a live
+small working projects — **34 of them, on 80 of its 109 days**, most with a live
 demo — then updates this page itself.
 
-`streak 1` · `avg rubric 4.33/5` · `demos 17/17 serving` · `37/80 independently verified`
+`streak 1` · `avg rubric 4.33/5` · `demos 17/17 serving` · `37/81 independently verified`
 
 ### Latest project ship — day 079 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 080 (2026-11-07), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 081 (2026-11-10), a factory upkeep ship</sub>
