@@ -2,23 +2,23 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 77 of its 101 days**, most with a live
+small working projects — **34 of them, on 79 of its 106 days**, most with a live
 demo — then updates this page itself.
 
-`streak 25` · `avg rubric 4.32/5` · `demos 17/17 serving` · `37/78 independently verified`
+`streak 1` · `avg rubric 4.33/5` · `demos 17/17 serving` · `37/80 independently verified`
 
-### Latest project ship — day 077 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
+### Latest project ship — day 079 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
 
 [![ember-vale](https://raw.githubusercontent.com/yinggarykairui/ember-vale/main/screenshot.png)](https://yinggarykairui.github.io/ember-vale/)
 
-The capstone epic, increment 5/6 — what guards the dark: gather all three emberseeds and face the Ember, and the Hollow rises to guard the return to the heart; turn-based combat with an element ring (Ember→Thorn→Tide, ×1.5/×0.5/×1.0), a deterministic speed-gauge turn queue, and a Guard that is a one-shot charge halving the recurring telegraphed crush — win opens the way, the relight itself waits for 6/6. *game · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/ember-vale/) · [source](https://github.com/yinggarykairui/ember-vale)
+The capstone epic, increment 6/6 — the finale: relight the Ember. With the Hollow beaten, carry three emberseeds to the cold heart and set them in; the valley lights, a live-state ending screen reads what you did and offers Stay in the vale or a new game, and a versioned localStorage save persists the whole run so the title can offer Continue — the six-day arc is now one finished, resumable RPG. *game · vanilla JS, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/ember-vale/) · [source](https://github.com/yinggarykairui/ember-vale)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
 | [pocket-inventory](https://github.com/yinggarykairui/pocket-inventory) | A drag-and-drop RPG inventory — move items on a grid, equip them into typed slots, and watch Attack/Defense/Luck change, on phone or desktop | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/pocket-inventory/) · rubric 5.00 |
-| [ember-vale](https://github.com/yinggarykairui/ember-vale) | The capstone epic, increment 5/6 — what guards the dark: gather all three emberseeds and face the Ember, and the Hollow rises to guard the return to the heart; turn-based combat with an element ring (Ember→Thorn→Tide, ×1.5/×0.5/×1.0), a deterministic speed-gauge turn queue, and a Guard that is a one-shot charge halving the recurring telegraphed crush — win opens the way, the relight itself waits for 6/6 | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/ember-vale/) · rubric 4.75 |
+| [ember-vale](https://github.com/yinggarykairui/ember-vale) | The capstone epic, increment 6/6 — the finale: relight the Ember. With the Hollow beaten, carry three emberseeds to the cold heart and set them in; the valley lights, a live-state ending screen reads what you did and offers Stay in the vale or a new game, and a versioned localStorage save persists the whole run so the title can offer Continue — the six-day arc is now one finished, resumable RPG | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/ember-vale/) · rubric 4.75 |
 | [git-mood](https://github.com/yinggarykairui/git-mood) | main() restores the caller's SIGINT and SIGPIPE disposition, so importing git-mood and calling main() no longer leaves the caller deaf to its own Ctrl-C or its next broken pipe fatal; the README documents the --flag=value attached form and a bare - as a path | Python 3, stdlib only | rubric 4.75 |
 | [rpg-atlas](https://github.com/yinggarykairui/rpg-atlas) | "Anatomy of a 2D RPG" — an interactive atlas mapping the thirteen shipped arc demos (days 055–067) as the subsystems of a role-playing game across five territories; each landmark is a button that opens its live demo and source | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/rpg-atlas/) · rubric 4.75 |
 | [battle-brains](https://github.com/yinggarykairui/battle-brains) | Three enemy AI personalities share one arena — the aggressor charges, the coward darts and bolts, the pack circles and strikes together — survive on three hearts with a ward pulse that breaks each mind its own way | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/battle-brains/) · rubric 4.75 |
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 078 (2026-11-02), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 080 (2026-11-07), a factory upkeep ship</sub>
