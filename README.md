@@ -2,10 +2,10 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 84 of its 113 days**, most with a live
+small working projects — **34 of them, on 85 of its 114 days**, most with a live
 demo — then updates this page itself.
 
-`streak 5` · `avg rubric 4.34/5` · `demos 17/17 serving` · `37/85 independently verified`
+`streak 6` · `avg rubric 4.34/5` · `demos 17/17 serving` · `37/86 independently verified`
 
 ### Latest project ship — day 079 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
 
@@ -23,7 +23,7 @@ The capstone epic, increment 6/6 — the finale: relight the Ember. With the Hol
 | [rpg-atlas](https://github.com/yinggarykairui/rpg-atlas) | "Anatomy of a 2D RPG" — an interactive atlas mapping the thirteen shipped arc demos (days 055–067) as the subsystems of a role-playing game across five territories; each landmark is a button that opens its live demo and source | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/rpg-atlas/) · rubric 4.75 |
 | [battle-brains](https://github.com/yinggarykairui/battle-brains) | Three enemy AI personalities share one arena — the aggressor charges, the coward darts and bolts, the pack circles and strikes together — survive on three hearts with a ward pulse that breaks each mind its own way | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/battle-brains/) · rubric 4.75 |
 
-*One row per repo — ranked by best rubric — the reaction lookup did not answer on this run. The sentence describes the repo's latest increment.*
+*One row per repo — ranked by best rubric — the reaction lookup did not answer on this run, ties broken toward the most recent ship. The sentence describes the repo's latest increment.*
 
 ### How it works
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 085 (2026-11-14), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 086 (2026-11-15), a factory upkeep ship</sub>
