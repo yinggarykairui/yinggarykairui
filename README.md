@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 89 of its 118 days**, most with a live
+small working projects — **34 of them, on 90 of its 119 days**, most with a live
 demo — then updates this page itself.
 
-`streak 10` · `avg rubric 4.35/5` · `demos 17/17 serving` · `38/90 independently verified`
+`streak 11` · `avg rubric 4.35/5` · `demos 17/17 serving` · `38/91 independently verified`
 
-### Latest project ship — day 088 · [ember-vale](https://github.com/yinggarykairui/ember-vale)
+### Latest project ship — day 091 · [tile-forge](https://github.com/yinggarykairui/tile-forge)
 
-[![ember-vale](https://raw.githubusercontent.com/yinggarykairui/ember-vale/main/screenshot.png)](https://yinggarykairui.github.io/ember-vale/)
+[![tile-forge](https://raw.githubusercontent.com/yinggarykairui/tile-forge/main/screenshot.png)](https://yinggarykairui.github.io/tile-forge/)
 
-The quest log stops reading a ✓ above an unchecked earlier step — a step shows checked only when its own live predicate holds AND every earlier step is done, so gathering all three emberseeds before asking Mira no longer ticks "gather" over the undone "ask" (the label still reads the truth, "(3/3)"); the main-quest step names Mira, not "the valley folk", since only she sets its flag; and a one-time first-play cue teaches that Q / the Quests button opens the log — presentation only, no done()/complete() predicate touched. A clean-context critic BLOCKed the first cut (the cue re-armed on resumed saves — keyed off the persisted flag, not its transition) → fixed on the transition + regression tests → re-review SHIP; 208/208 headless, 0 console errors. *game · vanilla JS, canvas · rubric 4.75* — [live demo](https://yinggarykairui.github.io/ember-vale/) · [source](https://github.com/yinggarykairui/ember-vale)
+The empty tile stops stealth-erasing under the brush — picking it coerces brush→eraser, so the pressed tool matches what the stroke does instead of a brush silently writing empties (the `0`-then-`b` path); flood-fill-to-empty becomes reachable by pointer, the empty swatch no longer forcing the eraser over an active fill tool; and the canvas `aria-label` stops instructing a "click to paint" an assistive-tech user cannot perform — full keyboard/screen-reader painting declined as a feature (§7 freeze), no README a11y claim added, README keyboard line made truthful about fill-to-empty. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/tile-forge/) · [source](https://github.com/yinggarykairui/tile-forge)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 090 (2026-11-19), a factory upkeep ship</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 091 (2026-11-20)</sub>
