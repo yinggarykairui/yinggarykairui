@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 90 of its 119 days**, most with a live
+small working projects — **34 of them, on 91 of its 120 days**, most with a live
 demo — then updates this page itself.
 
-`streak 11` · `avg rubric 4.35/5` · `demos 17/17 serving` · `38/91 independently verified`
+`streak 12` · `avg rubric 4.35/5` · `demos 17/17 serving` · `38/92 independently verified`
 
-### Latest project ship — day 091 · [tile-forge](https://github.com/yinggarykairui/tile-forge)
+### Latest project ship — day 092 · [dialogue-loom](https://github.com/yinggarykairui/dialogue-loom)
 
-[![tile-forge](https://raw.githubusercontent.com/yinggarykairui/tile-forge/main/screenshot.png)](https://yinggarykairui.github.io/tile-forge/)
+[![dialogue-loom](https://raw.githubusercontent.com/yinggarykairui/dialogue-loom/main/screenshot.png)](https://yinggarykairui.github.io/dialogue-loom/)
 
-The empty tile stops stealth-erasing under the brush — picking it coerces brush→eraser, so the pressed tool matches what the stroke does instead of a brush silently writing empties (the `0`-then-`b` path); flood-fill-to-empty becomes reachable by pointer, the empty swatch no longer forcing the eraser over an active fill tool; and the canvas `aria-label` stops instructing a "click to paint" an assistive-tech user cannot perform — full keyboard/screen-reader painting declined as a feature (§7 freeze), no README a11y claim added, README keyboard line made truthful about fill-to-empty. *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/tile-forge/) · [source](https://github.com/yinggarykairui/tile-forge)
+The README screenshot now pictures the **editor** — the tool's primary surface — beside the Play view in one composite (the Bridge-keeper start node and the `paidToll` flag a choice sets, next to that same branch played back with the flag collected); the Play-view description is corrected to the single stacked column it actually renders (not "left/right") and the screenshot's font is disclosed (§9.3). *web · vanilla JS, inline SVG · rubric 4.50* — [live demo](https://yinggarykairui.github.io/dialogue-loom/) · [source](https://github.com/yinggarykairui/dialogue-loom)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 091 (2026-11-20)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 092 (2026-11-21)</sub>
