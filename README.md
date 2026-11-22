@@ -2,16 +2,16 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 91 of its 120 days**, most with a live
+small working projects — **34 of them, on 92 of its 121 days**, most with a live
 demo — then updates this page itself.
 
-`streak 12` · `avg rubric 4.35/5` · `demos 17/17 serving` · `38/92 independently verified`
+`streak 13` · `avg rubric 4.35/5` · `demos 17/17 serving` · `38/93 independently verified`
 
-### Latest project ship — day 092 · [dialogue-loom](https://github.com/yinggarykairui/dialogue-loom)
+### Latest project ship — day 093 · [turn-clash](https://github.com/yinggarykairui/turn-clash)
 
-[![dialogue-loom](https://raw.githubusercontent.com/yinggarykairui/dialogue-loom/main/screenshot.png)](https://yinggarykairui.github.io/dialogue-loom/)
+[![turn-clash](https://raw.githubusercontent.com/yinggarykairui/turn-clash/main/screenshot.png)](https://yinggarykairui.github.io/turn-clash/)
 
-The README screenshot now pictures the **editor** — the tool's primary surface — beside the Play view in one composite (the Bridge-keeper start node and the `paidToll` flag a choice sets, next to that same branch played back with the flag collected); the Play-view description is corrected to the single stacked column it actually renders (not "left/right") and the screenshot's font is disclosed (§9.3). *web · vanilla JS, inline SVG · rubric 4.50* — [live demo](https://yinggarykairui.github.io/dialogue-loom/) · [source](https://github.com/yinggarykairui/dialogue-loom)
+`Space` stops stealing activation from a focused button — the global keydown handler treated `Space` as a Guard alias and `preventDefault`-ed it, so a focused target (`1`/`2`/`3`) or action button fired Guard instead of itself; `Space` now guards globally only when `document.activeElement` is not a button, yielding to the browser's native "Space activates the focused button" otherwise, with `G` still guarding unconditionally and `Enter` never intercepted (keyboard-a11y nit, feature freeze held — no other key, asset, or README behaviour claim changed). *web · vanilla JS, canvas · rubric 4.50* — [live demo](https://yinggarykairui.github.io/turn-clash/) · [source](https://github.com/yinggarykairui/turn-clash)
 
 ### Best builds
 
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 092 (2026-11-21)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 093 (2026-11-22)</sub>
