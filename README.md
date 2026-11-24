@@ -2,22 +2,22 @@
 
 I design autonomous systems that finish what they start. The proof runs daily:
 a build factory I wrote specs, builds, adversarially reviews, and deploys
-small working projects — **34 of them, on 93 of its 122 days**, most with a live
+small working projects — **34 of them, on 94 of its 123 days**, most with a live
 demo — then updates this page itself.
 
-`streak 14` · `avg rubric 4.36/5` · `demos 17/17 serving` · `38/94 independently verified`
+`streak 15` · `avg rubric 4.36/5` · `demos 17/17 serving` · `39/95 independently verified`
 
-### Latest project ship — day 094 · [git-mood](https://github.com/yinggarykairui/git-mood)
+### Latest project ship — day 095 · [pocket-inventory](https://github.com/yinggarykairui/pocket-inventory)
 
-[![git-mood](https://raw.githubusercontent.com/yinggarykairui/git-mood/main/screenshot.png)](https://github.com/yinggarykairui/git-mood)
+[![pocket-inventory](https://raw.githubusercontent.com/yinggarykairui/pocket-inventory/main/screenshot.png)](https://yinggarykairui.github.io/pocket-inventory/)
 
-git_mood.py sheds ~23% of its bytes in one deliberate comment-load pass (1975→1662 lines, 94→73 KB) — the ~47%-prose bloat #70 raised four reviews running — condensing narrative comments and over-long docstrings while every load-bearing bound and invariant survives (the signal-window exit codes 0/1/2/130, the 80-cell summary-width arithmetic, the #134 cut-marker and empty-filter invariants); the program is byte-for-byte identical, proven three ways — an `ast.dump` with docstrings stripped is equal base↔head (no logic or literal moved), the HELP/VERSION constants are unchanged, and all 19 reference invocations plus 11 unittest tests are unchanged; a clean-context critic returned SHIP with two over-trimmed measured bounds restored in a fixer, the 6-codepoint Cf enumeration left dropped (illustrative, not a bound). *cli · Python 3, stdlib only · rubric 4.75* — [source](https://github.com/yinggarykairui/git-mood)
+The grid inventory gains a full keyboard path layered over the untouched pointer engine — focus an item and press Enter or Space to pick it up, aim with the arrow keys, Tab, or a slot letter (W S H R A), Enter to drop, Esc to cancel; keyboard drops run through the same single `applyDrop` validation (wrong-type refused) and the same `recompute()` stat math as a drag, and an off-screen live region announces every pick-up, placement, refusal and cancel — an independent clean-context critic's exhaustive 475-combo `wouldApply`/`applyDrop` agreement sweep found 0 disagreements and a 1,500-keypress fuzz left the 14-item count and the stats intact. *web · vanilla JS, inline SVG · rubric 4.75* — [live demo](https://yinggarykairui.github.io/pocket-inventory/) · [source](https://github.com/yinggarykairui/pocket-inventory)
 
 ### Best builds
 
 | build | what it does | stack | proof |
 |-------|--------------|-------|-------|
-| [pocket-inventory](https://github.com/yinggarykairui/pocket-inventory) | A drag-and-drop RPG inventory — move items on a grid, equip them into typed slots, and watch Attack/Defense/Luck change, on phone or desktop | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/pocket-inventory/) · rubric 5.00 |
+| [pocket-inventory](https://github.com/yinggarykairui/pocket-inventory) | The grid inventory gains a full keyboard path layered over the untouched pointer engine — focus an item and press Enter or Space to pick it up, aim with the arrow keys, Tab, or a slot letter (W S H R A), Enter to drop, Esc to cancel; keyboard drops run through the same single `applyDrop` validation (wrong-type refused) and the same `recompute()` stat math as a drag, and an off-screen live region announces every pick-up, placement, refusal and cancel — an independent clean-context critic's exhaustive 475-combo `wouldApply`/`applyDrop` agreement sweep found 0 disagreements and a 1,500-keypress fuzz left the 14-item count and the stats intact | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/pocket-inventory/) · rubric 5.00 |
 | [git-mood](https://github.com/yinggarykairui/git-mood) | git_mood.py sheds ~23% of its bytes in one deliberate comment-load pass (1975→1662 lines, 94→73 KB) — the ~47%-prose bloat #70 raised four reviews running — condensing narrative comments and over-long docstrings while every load-bearing bound and invariant survives (the signal-window exit codes 0/1/2/130, the 80-cell summary-width arithmetic, the #134 cut-marker and empty-filter invariants); the program is byte-for-byte identical, proven three ways — an `ast.dump` with docstrings stripped is equal base↔head (no logic or literal moved), the HELP/VERSION constants are unchanged, and all 19 reference invocations plus 11 unittest tests are unchanged; a clean-context critic returned SHIP with two over-trimmed measured bounds restored in a fixer, the 6-codepoint Cf enumeration left dropped (illustrative, not a bound) | Python 3, stdlib only | rubric 4.75 |
 | [ember-vale](https://github.com/yinggarykairui/ember-vale) | The quest log stops reading a ✓ above an unchecked earlier step — a step shows checked only when its own live predicate holds AND every earlier step is done, so gathering all three emberseeds before asking Mira no longer ticks "gather" over the undone "ask" (the label still reads the truth, "(3/3)"); the main-quest step names Mira, not "the valley folk", since only she sets its flag; and a one-time first-play cue teaches that Q / the Quests button opens the log — presentation only, no done()/complete() predicate touched. A clean-context critic BLOCKed the first cut (the cue re-armed on resumed saves — keyed off the persisted flag, not its transition) → fixed on the transition + regression tests → re-review SHIP; 208/208 headless, 0 console errors | vanilla JS, canvas | [demo](https://yinggarykairui.github.io/ember-vale/) · rubric 4.75 |
 | [rpg-atlas](https://github.com/yinggarykairui/rpg-atlas) | "Anatomy of a 2D RPG" — an interactive atlas mapping the thirteen shipped arc demos (days 055–067) as the subsystems of a role-playing game across five territories; each landmark is a button that opens its live demo and source | vanilla JS, inline SVG | [demo](https://yinggarykairui.github.io/rpg-atlas/) · rubric 4.75 |
@@ -37,4 +37,4 @@ actually loads the build. A day that cannot clear the gate ships the largest
 working subset and says so. The doctrine, rubric, and every daily sign-off are
 public in [factory-hub](https://github.com/yinggarykairui/factory-hub).
 
-<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 094 (2026-11-23)</sub>
+<sub>Maintained by the factory · [dashboard](https://yinggarykairui.github.io/factory-hub/) · last updated day 095 (2026-11-24)</sub>
